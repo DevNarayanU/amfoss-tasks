@@ -1,21 +1,21 @@
 ### Level 1
-![[Pasted image 20260723150509.png]]
+![](assets/level1.png)
 ONE_PIECE{GITO_GITO_NO_AWAKENING}
 ### Level 2
-![[Pasted image 20260723150710.png|687]]
+![](assets/level2_1.png)
 
 switched branch to whiskey_peak_investigation
 
 I used ```export variable="ONE_PIECE{GITO_GITO_NO_AWAKENING}" :: to set variable ```
 
-![[Pasted image 20260723162801.png]]
+![](assets/level2_2.png)
 BAROQUE_DIAL{SPLIT_TIMELINE_MISDIRECTION}
 
 ### Level 3
 
 switched to little_garden branch
 
-![[Pasted image 20260723164201.png]]
+![](assets/level3.png)
 
 used ```grep -r "BAROQUE" Wax_Jungle :: to iterate through all files in Wax_Jungle and find the same pattern```
 
@@ -49,11 +49,11 @@ and used ```file puffing_tom_blueprints :: to check the filetype```
 then used ``` tar -x -f puffing_tom_blueprints :: to extract the contents
 		    unzip step1_blueprints.zip :: to unzip it```
 
-![[Pasted image 20260723170347.png]]
+![](assets/level4.png)
 
 PONEGLYPH_FRAGMENT_II="SwnbzptDiM3JSpvFiMuJ28PJzAlJ28VIzA="
 
-![[Pasted image 20260723170633.png]]
+![](assets/level4_1.png)
 dont know what this is for though
 
 
@@ -94,7 +94,7 @@ Terminal-Voyage-User-Edition/GrandLine ❯
 
 so to view that i used ```git view ``` resulting in this :-:-:-> then combined 2 fragments to 
 input code :: KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnLSwnbzptDiM3JSpvFiMuJ28PJzAlJ28VIzA=
-![[Pasted image 20260723174718.png]]
+![[level5.png]]
 
 
 ### Level 6
@@ -102,7 +102,7 @@ input code :: KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnLSwnbzptDiM3JSpvFiMuJ28PJzAlJ28VIz
 after cloning into [git@github.com:rogueone-x/Laugh-Tale-Merge-War.git] I tries to merge two branches using ```Laugh-Tale-Merge-War ❯ git merge origin/pirate_king_path                        ancient_history      ```
 
 which returned merge conflicts.
-![[Pasted image 20260723180105.png]]
+![](assets/level6.png)
 
 which on correcting showed me this 
 ```Laugh-Tale-Merge-War/treasure ❯ cat key_part_1.txt                             pirate_king_path      
