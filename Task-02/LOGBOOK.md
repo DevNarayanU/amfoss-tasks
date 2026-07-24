@@ -94,7 +94,7 @@ Terminal-Voyage-User-Edition/GrandLine ❯
 
 so to view that i used ```git view ``` resulting in this :-:-:-> then combined 2 fragments to 
 input code :: KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnLSwnbzptDiM3JSpvFiMuJ28PJzAlJ28VIzA=
-![[level5.png]]
+![](assets/level5.png)
 
 
 ### Level 6
